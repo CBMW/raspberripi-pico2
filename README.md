@@ -4,7 +4,7 @@ Welcome to the **Raspberry Pi Pico 2** repository! Here you'll find fun and crea
 
 ---
 
-## 📌 Featured Project: `rickroll.mpy` 
+## 📌 Featured Project: `rickroll.py` 
 
 **Description:**  
 A script designed for educational purposes to demonstrate USB HID capabilities. This project guarantees a playful "drive-by Rick Roll" on any operating system!
