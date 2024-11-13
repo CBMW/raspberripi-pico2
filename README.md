@@ -1,6 +1,4 @@
-# Raspberry Pi Pico 2
-
-**Raspberry Pi Shenanigans**  
+# Raspberry Pi Pico 2 
 
 Welcome to the **Raspberry Pi Pico 2** repository! Here you'll find fun and creative projects designed to make the most out of your Raspberry Pi Pico.
 
