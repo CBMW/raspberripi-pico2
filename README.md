@@ -1,6 +1,6 @@
 # Raspberry Pi Pico 2 
 
-Welcome to the **Raspberry Pi Pico 2** repository! Here you'll find fun and creative projects designed to make the most out of your Raspberry Pi Pico.
+Welcome to my **Raspberry Pi Pico 2** repository!
 
 ---
 
@@ -20,5 +20,4 @@ This project is for **educational purposes only**. Always ensure you have permis
 
 ---
 
-👾 Have fun exploring and tinkering with the Raspberry Pi Pico!  
 Pull requests and ideas welcome. 
